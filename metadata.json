@@ -1,0 +1,6 @@
+{
+  "name": "ROZOB WiFi Voucher Manager",
+  "description": "Offline WiFi voucher management application with bulk import, user details, PDF export, copy/share, package setup, backup/restore, and full Android AIDE source code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
